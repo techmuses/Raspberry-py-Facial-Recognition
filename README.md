@@ -14,8 +14,10 @@
 <em><strong>Also make sure to change Open CV version in the code to the version your are using.</strong></em></p>
 <h2 id="installing-dlib">Installing Dlib</h2>
 <p><a href="https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/">https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/</a></p>
-<h2 id="facial-recognition-on-open-cv">Facial Recognition on Open CV</h2>
+<h2 id="facial-recognition-on-open-cv---linux">Facial Recognition on Open CV - Linux</h2>
 <p><a href="https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/">https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/</a></p>
+<h2 id="facial-recognition-on-open-cv---raspberry-py">Facial Recognition on Open CV - Raspberry Py</h2>
+<p><a href="https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/">https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/</a></p>
 <h2 id="facial-recognition-using-azure---face-rest-api">Facial Recognition using Azure - Face Rest Api</h2>
 <p><a href="https://maker.pro/raspberry-pi/projects/raspberry-pi-security-camera-with-face-recognition">https://maker.pro/raspberry-pi/projects/raspberry-pi-security-camera-with-face-recognition</a></p>
 <p><strong>Required Microsoft Cognitive Service Account</strong>- <a href="https://azure.microsoft.com/en-in/try/cognitive-services/?unauthorized=1">https://azure.microsoft.com/en-in/try/cognitive-services/?unauthorized=1</a></p>
