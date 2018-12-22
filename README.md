@@ -41,6 +41,5 @@
 <li><a href="https://alphadataone.blogspot.com/2016/11/automatic-attendance-system-using-face.html">https://alphadataone.blogspot.com/2016/11/automatic-attendance-system-using-face.html</a><br>
 <a href="https://github.com/sanjeev309/face-recognition-dlib-tensorflow-knn">https://github.com/sanjeev309/face-recognition-dlib-tensorflow-knn</a></li>
 <li><a href="https://github.com/theshanks13/FaceRecognitionPi">https://github.com/theshanks13/FaceRecognitionPi</a></li>
-<li><a href="https://github.com/theshanks13/FaceRecognitionPi">https://github.com/theshanks13/FaceRecognitionPi</a></li>
 </ol>
 
