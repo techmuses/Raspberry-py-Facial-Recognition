@@ -29,6 +29,5 @@
 <li><a href="https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826#similar-projects">https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826#similar-projects</a></li>
 <li><a href="https://devpost.com/software/face-recognition-raspberry-pi-tqp95a">https://devpost.com/software/face-recognition-raspberry-pi-tqp95a</a></li>
 <li><a href="https://github.com/agonzaga/SmartDoor">https://github.com/agonzaga/SmartDoor</a></li>
-<li></li>
 </ol>
 
