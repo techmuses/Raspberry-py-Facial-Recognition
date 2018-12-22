@@ -12,8 +12,10 @@
 <p><a href="https://www.instructables.com/id/Face-and-Eye-Detection-With-Raspberry-Pi-Zero-and-/">https://www.instructables.com/id/Face-and-Eye-Detection-With-Raspberry-Pi-Zero-and-/</a></p>
 <p><em>Just Scroll down to the part where he tells you to install pi camera<img src="https://lh3.googleusercontent.com/CHRMS0RGkVC8zU5ot_zz9j0Uk8ljQhfXEnn6EADmoKG_zIiGVt7jBFmh3q0RTS20FfQlJSUkurlK1A" alt="enter image description here" title="Here"></em><br>
 <em><strong>Also make sure to change Open CV version in the code to the version your are using.</strong></em></p>
-<h2 id="installing-dlib">Installing Dlib</h2>
+<h2 id="installing-dlib-raspberry-py">Installing Dlib Raspberry py</h2>
 <p><a href="https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/">https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/</a></p>
+<h2 id="installing-dlib-ubuntu-18.04-lts">Installing Dlib Ubuntu 18.04 Lts</h2>
+<p><a href="https://www.learnopencv.com/install-dlib-on-ubuntu/">https://www.learnopencv.com/install-dlib-on-ubuntu/</a></p>
 <h2 id="capture-images-dataset-through-py-cam">Capture images (Dataset) Through Py Cam</h2>
 <p><a href="https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/">https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/</a></p>
 <h2 id="facial-recognition-on-open-cv---linux">Facial Recognition on Open CV - Linux</h2>
