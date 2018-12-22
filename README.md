@@ -14,6 +14,8 @@
 <em><strong>Also make sure to change Open CV version in the code to the version your are using.</strong></em></p>
 <h2 id="installing-dlib">Installing Dlib</h2>
 <p><a href="https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/">https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/</a></p>
+<h2 id="capture-images-dataset-through-py-cam">Capture images (Dataset) Through Py Cam</h2>
+<p><a href="https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/">https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/</a></p>
 <h2 id="facial-recognition-on-open-cv---linux">Facial Recognition on Open CV - Linux</h2>
 <p><a href="https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/">https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/</a></p>
 <h2 id="facial-recognition-on-open-cv---raspberry-py">Facial Recognition on Open CV - Raspberry Py</h2>
