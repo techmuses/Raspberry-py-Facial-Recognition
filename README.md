@@ -21,7 +21,6 @@
 <li><a href="/Java-1/implicit_conversion/implicit_conversion.java"> Implicit Conversion in java </a></li>
 <li><a href="/Java-1/explicit_conversion/explicit_conversion.java"> Explicit Conversion in java </a></li>
 <li><a href="/Java-1/BMI_CALCULATION/bmi_calculation.java"> BMI Calculation Project </a></li>
-<a href="(https://github.com/jainal09/Java_For_Begginers/graphs/code-frequency"> New codes updated frequently</a> **Hang tight fellas!** 🤞
-</ol> 
-[enter link description here](https://github.com/jainal09/Java_For_Begginers/graphs/code-frequency)
+</ol><p><a href="(https://github.com/jainal09/Java_For_Begginers/graphs/code-frequency"> New codes updated frequently</a> <strong>Hang tight fellas!</strong> 🤞</p>
+ 
 
